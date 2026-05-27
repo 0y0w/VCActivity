@@ -3,10 +3,10 @@
  * @version 1.3.5
  * @author wi050(y0)
  * @authorId 859300569905627148
- * @description Adds Toast Windows to your selected Voice Channel to Findout Who Join or Leave.
+ * @description Show an alert when members join or leave your current voice channel.
  */
 
-"use strict";
+use strict";
 
 const PLUGIN_KEY = "VCActivity";
 const load = (k) => BdApi.Data.load(PLUGIN_KEY, k);
