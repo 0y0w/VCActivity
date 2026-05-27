@@ -6,7 +6,7 @@
  * @description Show an alert when members join or leave your current voice channel.
  */
 
-use strict";
+"use strict";
 
 const PLUGIN_KEY = "VCActivity";
 const load = (k) => BdApi.Data.load(PLUGIN_KEY, k);
