@@ -1,2 +1,4 @@
 # VCActivity
-Monitor activitis of your current in voice chat and take a toast notification to show who joins or leaves.
+Show toast notifications when someone joins or leaves your current voice channel.
+
+<img width="301" height="104" alt="thumbnail" src="thumbnail.png" />
